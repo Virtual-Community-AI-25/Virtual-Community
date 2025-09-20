@@ -4,7 +4,7 @@
   Humans, Robots, and Society
 </h1>
   <p align="center">
-    ICLR 2026
+    Anonymous authors
   </p>
   <p align="center">
     <a href='https://virtual-community-ai-25.github.io/' style='padding-left: 0.5rem;'>
